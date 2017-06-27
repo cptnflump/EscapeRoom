@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Escape The Room</string>
+    <string name="timer_button">Start</string>
+    <string name="timer_start">TIMER</string>
+    <string name="select_a_room">Select a room</string>
+    <string name="submit_button_text">OK</string>
+    <string name="success_msg">SUCCESS</string>
+</resources>
